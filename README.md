@@ -1,9 +1,34 @@
-# 🧾 Sales Data Project (MySQL)
+✈️ Sales & Aviation SQL Projects
+This repository contains two SQL-based data analysis projects:
 
-This is a simple SQL-based project that analyzes sales trends using the Superstore dataset.
+Sales Data Analysis using Superstore dataset
 
-## Files to be Uploaded
+Aviation Data Analysis using global routes and airport datasets
 
-- Superstore dataset CSV
-- SQL query file
-- Screenshots of dashboards/queries
+📊 1. Sales Data Analysis
+Description:
+Analyzes Superstore sales data using SQL queries to extract insights related to product performance, sales trends, and regional performance.
+
+Key Features:
+
+Total and average sales by product
+
+Regional performance insights
+
+Category-wise and sub-category analysis
+
+Discount and profit relationships
+
+✈️ 2. Aviation SQL Analysis
+Description:
+Performs SQL-based exploration of aviation datasets, including flight routes, airports, and airline operations. The project focuses on identifying global connectivity and travel patterns.
+
+Key Features:
+
+Top source and destination airports
+
+Country-wise airport distribution
+
+Airline route mapping
+
+Airport metadata analysis
